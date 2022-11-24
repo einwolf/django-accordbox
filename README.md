@@ -26,6 +26,7 @@ python manage.py runserver 0.0.0.0:8000
 # Install npm into frontend directory
 cd djaccord/frontend
 npm install
+npm install react react-dom
 
 # Run nodejs in watch mode
 npm run watch
